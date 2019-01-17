@@ -2,7 +2,7 @@
   "name": "react-admin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asd8855.github.io/react-admin-web/build",
+  "homepage": "https://asd8855.github.io/react-admin-web",
   "dependencies": {
     "element-react": "^1.4.26",
     "element-theme-default": "^1.4.13",
